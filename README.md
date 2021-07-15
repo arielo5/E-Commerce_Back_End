@@ -25,17 +25,13 @@
 
 💻 Below is the gif showing the functionality of the application:
   
-![DB Setup and Start](./animations/DB%20setup%20and%20start.gif)
+![DB Setup and Start](./assets/images/DB_setup_and_start.gif)
 
-![GET All](./animations/GET%20all.gif)
+![GET All & GET by ID](./assets/images/GET_all_and_GET_by_ID.gif)
 
-![GET All by ID](./animations/GET%20by%20ID.gif)
+![POST PUT DELETE](./assets/images/POST_PUT_DELETE.gif)
 
-![POST PUT DELETE Products and Tags](./animations/POST%20PUT%20DELETE%20Tags%20and%20Products.gif)
-
-![POST PUT DELETE Categories](./animations/POST%20PUT%20DELETE%20Categories.gif)
-
-🎥 The full video file showing functionality of the application can be found HERE
+🎥 The full video file showing functionality of the application can be found [HERE](https://drive.google.com/file/d/1PJwIrARVhd1Km3vQbqVshtNbMmeU1w09/view?usp=sharing)
 
 ## Table of Contents
 - [Description](#description)
@@ -51,11 +47,8 @@
   
 `npm init`
 
-`npm install mysql2`
+`npm i`
 
-`npm install sequelize`
-
-`npm install dotenv`
   
 ## Usage
 💻   
